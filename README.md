@@ -1,4 +1,4 @@
-# 🖥️ Compiler Design Lab_1 Programs (Python)
+# 🖥️ Compiler Design Lab_2 Programs (Python)
 
 A collection of **Compiler Design Laboratory programs** implemented in **Python**, covering fundamental concepts such as **Deterministic Finite Automata (DFA)**, **Lexical Analysis**, **Regular Expressions**, and **Symbol Table Management**.
 
